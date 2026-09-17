@@ -1,7 +1,7 @@
 
 function Header(){
     return(
-        <header className="w-full bg-[#FAF8F6]">
+        <header className="w-full bg-[#FAF8F6] ">
             <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5">
                 <h1 className="font-playfair text-2xl font-semibold text-[#36454F]">Vanessa Souza</h1>
 
