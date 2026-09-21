@@ -15,9 +15,14 @@ function Header(){
                         className="font-montserrat rounded-full px-3 py-1.5 text-sm text-[#36454F] transition-all duration-300 hover:bg-[#E8C2C9]/20 hover:text-[#E8C2C9]"
                     >Atendimento</a>
                     <a 
+                        href="#abordagem"
+                        className="font-montserrat rounded-full px-3 py-1.5 text-sm text-[#36454F] transition-all duration-300 hover:bg-[#E8C2C9]/20 hover:text-[#E8C2C9]"
+                    >Abordagem</a>
+                    <a 
                         href="#contato"
                         className="font-montserrat rounded-full px-3 py-1.5 text-sm text-[#36454F] transition-all duration-300 hover:bg-[#E8C2C9]/20 hover:text-[#E8C2C9]"
                     >Contato</a>
+                    
                 </nav>
 
                 <a 
