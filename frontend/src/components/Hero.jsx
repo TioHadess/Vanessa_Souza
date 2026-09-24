@@ -3,7 +3,7 @@ import Foto from '../assets/Vanessa_Souza.jfif'
 
 function Hero(){
     return(
-        <section className="min-h-[calc(100vh-80px)]">
+        <section id='hero' className="min-h-[calc(100vh-80px)]">
 
             <div className="mt-30 mx-auto grid max-w-7xl items-center gap-12 px-6 py-16 md:grid-cols-2">
                 

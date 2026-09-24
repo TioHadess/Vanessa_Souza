@@ -1,10 +1,11 @@
 
 function Header(){
     return(
-        <header className="w-full bg-[#FAF8F6] ">
+        <header className="sticky top-0 z-50 w-full bg-[#FAF8F6]/95 backdrop-blur-sm">
             <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5">
-                <h1 className="font-playfair text-2xl font-semibold text-[#36454F]">Vanessa Souza</h1>
-
+                <a href="">
+                    <h1 className="font-playfair  text-2xl font-semibold text-[#36454F]">Vanessa Souza</h1>
+                </a>
                 <nav className="flex items-center gap-8">
                     <a 
                         href="#sobre"
